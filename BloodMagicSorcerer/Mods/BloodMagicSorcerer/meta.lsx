@@ -17,22 +17,22 @@
       <children>
         <node id="Dependencies"/>
         <node id="ModuleInfo">
-          <attribute id="Author" type="LSWString" value="BG3 Community"/>
+          <attribute id="Author" type="LSWString" value="ainafuin"/>
           <attribute id="CharacterCreationLevelName" type="FixedString" value=""/>
-          <attribute id="Description" type="LSWString" value="A Basic Template for setting up a new BG3 mod"/>
-          <attribute id="Folder" type="LSWString" value="TemplateMod"/>
+          <attribute id="Description" type="LSWString" value="A blood magic-themed subclass mod for Sorcerers."/>
+          <attribute id="Folder" type="LSWString" value="BloodMagicSorcerer"/>
           <attribute id="GMTemplate" type="FixedString" value=""/>
           <attribute id="LobbyLevelName" type="FixedString" value=""/>
           <attribute id="MD5" type="LSString" value=""/>
           <attribute id="MainMenuBackgroundVideo" type="FixedString" value=""/>
           <attribute id="MenuLevelName" type="FixedString" value=""/>
-          <attribute id="Name" type="FixedString" value="TemplateMod"/>
+          <attribute id="Name" type="FixedString" value="BloodMagicSorcerer"/>
           <attribute id="NumPlayers" type="uint8" value="4"/>
           <attribute id="PhotoBooth" type="FixedString" value=""/>
           <attribute id="StartupLevelName" type="FixedString" value=""/>
-          <attribute id="Tags" type="LSWString" value="Template"/>
+          <attribute id="Tags" type="LSWString" value="Subclass"/>
           <attribute id="Type" type="FixedString" value="Add-on"/>
-          <attribute id="UUID" type="FixedString" value="faef6819-403e-460d-83f4-c8788a854773"/>
+          <attribute id="UUID" type="FixedString" value="dee0a1c8-7ea5-43cb-9c4c-806f5977db81"/>
           <attribute id="Version64" type="int64" value="36028797018963968"/>
           <children>
             <node id="PublishVersion">

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="ClassDescriptions">
+    <node id="root">
+      <children>
+        <node id="ClassDescription">
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8" />
+                    <attribute id="Description" type="TranslatedString" handle="h298714c6gf6a6g4caagac96g2e03001b9b06" version="1" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="ha5a895e3ge5efg4654g9c6eg1d01d9c533b2" version="1" />
+                    <attribute id="LearningStrategy" type="uint8" value="1" />
+                    <attribute id="Name" type="FixedString" value="BloodMagicSorcerer" />
+                    <attribute id="ParentGuid" type="guid" value="784001e2-c96d-4153-beb6-2adbef5abc92" />
+                    <attribute id="PrimaryAbility" type="uint8" value="6" />
+                    <attribute id="ProgressionTableUUID" type="guid" value="92b891f5-f20e-49ee-bbc5-6fddf5cca50e" /> 
+                    <attribute id="SoundClassType" type="FixedString" value="Sorcerer" />
+                    <attribute id="SpellCastingAbility" type="uint8" value="6" />
+                    <attribute id="UUID" type="guid" value="b7c4c071-740d-4667-bbe2-b5e3048a7d78" />
+                </node>
+      </children>
+    </node>
+  </region>
+</save>
